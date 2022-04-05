@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803925411587",
+    "project_id": "performance-e60cc",
+    "storage_bucket": "performance-e60cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803925411587:android:5451639177e8f8e821cb36",
+        "android_client_info": {
+          "package_name": "com.example.talabat_performance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803925411587-g1bk22g742evt0ft7h1765sj11uqb90i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.performance",
+            "certificate_hash": "f533149616e50cb7c0b1151dc2f5cbacf6973942"
+          }
+        },
+        {
+          "client_id": "803925411587-ej776016u7d9pio7mrh4nucu5i0qho9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE909uK2hoXtCVOcTx3F-LaLDsSkNxCBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803925411587-ej776016u7d9pio7mrh4nucu5i0qho9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
